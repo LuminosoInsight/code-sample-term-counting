@@ -49,6 +49,9 @@ Document your design and your decisions (in comments and/or a readme file),
 including how to run your program and your tests. Explain any fixes or
 enhancements you'd like to make to the script if you had more time.
 
+If you want a file to test with, we recommend using a plain text formatted
+e-book from [Project Gutenberg](https://www.gutenberg.org/).
+
 Evaluation
 ----------
 
