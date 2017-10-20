@@ -50,8 +50,8 @@ Evaluation
 ----------
 
 We'll be evaluating your code sample based on the quality of the documentation,
-the correctness of the script's behavior, the clarity of the code, and the
-maintainability of the design.
+the correctness of the script's behavior, the completeness of the tests, the
+readability of the code, and the maintainability of the design.
 
 Submitting your code
 --------------------
