@@ -9,7 +9,10 @@ Details
 -------
 
 It should be possible to call the script at the command-line with the filename
-to read as an argument. Something like: `$ python word_count.py my-doc.txt`
+to read as an argument. Something like:
+```
+$ python word_count.py my-doc.txt
+```
 
 By default, it should output the list in a simple human-readable format like
 this:
