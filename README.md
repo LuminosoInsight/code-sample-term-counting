@@ -5,6 +5,13 @@ In order to get a quick overview of what a text document is about, we'd like
 you to write a small application that reads in a file of English text, and
 then shows a list of the most common words in the file.
 
+Evaluation
+----------
+
+We'll be evaluating your code sample based on the quality of the documentation,
+the correctness of the application's behavior, the completeness of the tests,
+the readability of the code, and the maintainability of the design.
+
 Details
 -------
 
@@ -45,13 +52,6 @@ enhancements you'd like to make to the application if you had more time.
 
 If you want a file to test with, we recommend using a plain text formatted
 e-book from [Project Gutenberg](https://www.gutenberg.org/).
-
-Evaluation
-----------
-
-We'll be evaluating your code sample based on the quality of the documentation,
-the correctness of the application's behavior, the completeness of the tests,
-the readability of the code, and the maintainability of the design.
 
 Submitting your code
 --------------------
