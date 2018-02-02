@@ -5,12 +5,21 @@ In order to get a quick overview of what a text document is about, we'd like
 you to write a small application that reads in a file of English text, and
 then shows a list of the most common words in the file.
 
-Evaluation
-----------
+What are we looking for?
+------------------------
 
-We'll be evaluating your code sample based on the quality of the documentation,
-the correctness of the application's behavior, the completeness of the tests,
-the readability of the code, and the maintainability of the design.
+This exercise is our chance to get a look at your coding style -- to make
+sure that you can produce code that the rest of the team will be happy
+working with and maintaining. With this in mind, please approach the
+exercise as if you're demonstrating how you'd contribute to a larger
+system, not just writing a one-off script to get the job done.
+
+When we evaluate your code sample, we'll consider questions like:
+
+* Does the output match what we asked for?
+* Is the code simple, readable, and well documented?
+* Will the design be easy to update and maintain?
+* Are there automated tests that verify correct behavior?
 
 Details
 -------
