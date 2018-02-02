@@ -66,7 +66,13 @@ Submitting your code
 --------------------
 
 When your Python code is ready, package it up and send it to
-`hiring@luminoso.com`, along with any necessary instructions on how to run it.
+`hiring@luminoso.com`. What you send us should include:
+
+* A README with any necessary instructions on how to run your code
+* The code itself, along with any other files required for it to run
+* Automated tests
+* The version of Python you used when working on it (`python --version`)
+
 Please send it only to us, and don't make your code publicly available.
 
 We review code samples anonymously, so please DO NOT PUT YOUR NAME in any of
