@@ -71,7 +71,8 @@ When your Python code is ready, package it up and send it to
 * A README with any necessary instructions on how to run your code
 * The code itself, along with any other files required for it to run
 * Automated tests
-* The version of Python you used when working on it (`python --version`)
+* The version of Python you used when working on it (the output of
+  `python --version` -- e.g., "Python 3.4")
 
 Please send it only to us, and don't make your code publicly available.
 
