@@ -48,12 +48,14 @@ It should _also_ be possible to get the list in JSON format, like this:
 
 In JSON format, the application should list counts for all the words.
 
-We don't want you to spend more than two or three hours on this, so feel free
-to make any simplifying assumptions necessary to get a basic version of the
-application up and running; for example, you don't need to treat "thing" and
-"things" as the same word. If you get something working early, consider
-exploring any ways you can see of improving the output format or making the
-output more meaningful.
+We know time is limited, and the goal of this exercise is to show us the
+quality of your work. We'd much rather see a simple version of your
+solution cleanly implemented than a more feature-rich version with no
+tests, no documentation, and a poor design. Therefore, you should feel
+free to make any simplifying assumptions necessary to get a basic version
+of the application up and running; for example, you don't need to treat
+"thing" and "things" as the same word. If you have time and are so
+inclined, feel free to elaborate further from there.
 
 Document your design and your decisions (within the code and/or in a readme
 file) including how to run your program and your tests. Explain any fixes or
