@@ -48,7 +48,7 @@ It should _also_ be possible to get the list in JSON format, like this:
 
 In JSON format, the application should list counts for all the words.
 
-We don't want you to spend more than two or three hours on this, so feel free
+We don't want you to have to spend too much time on this, so feel free
 to make any simplifying assumptions necessary to get a basic version of the
 application up and running; for example, you don't need to treat "thing" and
 "things" as the same word. If you get something working early, consider
