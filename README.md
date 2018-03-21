@@ -54,7 +54,7 @@ cleanly implemented than a more feature-rich version with no tests, no
 documentation, and a poor design. Therefore, you should feel free
 to make any simplifying assumptions necessary to get a basic version of the
 application up and running; for example, you don't need to treat "thing" and
-"things" as the same word. If you have time and are so incined, feel free
+"things" as the same word. If you have time and are so inclined, feel free
 to elaborate further from there.
 
 Document your design and your decisions (within the code and/or in a readme
